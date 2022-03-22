@@ -12,6 +12,6 @@ In order to run the code, you need Python3 and the following libraries:
 To run the code, execute the following command:
 ```shell
 git clone https://github.com/bmaxdk/OpenAI-Gym-LunarLander-v2-Double-DQN-Prioritized-Experience-Replay.git
-cd OpenAI-Gym-LunarLander-v2
+cd OpenAI-Gym-LunarLander-v2-Double-DQN-Prioritized-Experience-Replay
 python main.py
 ```
